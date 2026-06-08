@@ -17,7 +17,7 @@ My focus is on utilizing programming frameworks to dissect clinical problems, bu
 
 When I'm not parsing data, I am deeply passionate about designing deep-work systems and systematic digital organization for peak efficiency. I thrive at the exact intersection where meticulous operational productivity meets advanced biological computation.
 
-### [🏆 Check Out My Full Portfolio Website](https://at-fuad.github.io/)
+### [🏆 Check Out My Full Portfolio Website](https://github.com/at-fuad))
       
 ## 🔭 What I'm Currently Working On 
 
